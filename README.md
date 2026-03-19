@@ -7,10 +7,10 @@
 </div></p>
 <div align="center"><p>
 
-
-
-🚀 Sobre mim:
-Estou em transição de carreira para a área de Tecnologia da Informação, unindo minha experiência anterior com artes visuais à precisão do desenvolvimento de software. Acredito que a tecnologia é a ferramenta perfeita para transformar lógica em soluções criativas.
+Estou em transição de carreira para a área de Tecnologia da Informação, unindo minha experiência anterior com artes visuais à precisão do desenvolvimento de software. 
+<p>✨ Acredito que a tecnologia é a ferramenta perfeita para transformar lógica em soluções criativas. ✨
+  
+</p>
 
 <p><h3>◦ 🎓 Graduando em Sistemas de Informação.</h3></p>
 <p><h3>◦ ⚡ Residente de Software (Full Stack) no SERRATEC.</h3></p>
