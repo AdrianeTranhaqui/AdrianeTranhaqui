@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**AdrianeTranhaqui/AdrianeTranhaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><p>
+<h1>✻ Olá, eu sou Adriane Tranhaqui! ✻ 
+</div></p></h1>
+<div align="center"><p>
+<img src="https://github.com/user-attachments/assets/120fccdd-6e79-4572-b848-f5da443f78df" width="100px">
+</div></p>
+<div align="center"><p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Sobre mim:
+Estou em transição de carreira para a área de Tecnologia da Informação, unindo minha experiência anterior com artes visuais à precisão do desenvolvimento de software. Acredito que a tecnologia é a ferramenta perfeita para transformar lógica em soluções criativas.
+
+◦ 🎓 Graduando em Sistemas de Informação.
+◦ ⚡ Residente de Software (Full Stack) no SERRATEC.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianeTranhaqui&show_icons=true&theme=onedark&transparent)
+</div></p>
+<div align="center">
+
+  ### 🛠️ Tecnologias e Ferramentas:
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  
+
+</div>
+<div align="center">
+
+  ### 🤝 Conecte-se comigo:
+
+  <a href="(https://www.linkedin.com/in/adriane-tranhaqui-356806353/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="(https://www.instagram.com/adrianetranhaqui?igsh=MTI3dWlrZDhrbWlteA%3D%3D&utm_source=qr)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+</div>
