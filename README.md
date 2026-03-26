@@ -15,7 +15,7 @@ Estou em transição de carreira para a área de Tecnologia da Informação, uni
 <p><h3>◦ 🎓 Graduando em Sistema de Informação.</h3></p>
 <p><h3>◦ ⚡ Residente de Software (Full Stack) no SERRATEC.</h3></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianeTranhaqui&show_icons=true&theme=onedark&transparent)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianeTranhaqui&show_icons=true&theme=onedark" />
 </div></p>
 <div align="center">
 
