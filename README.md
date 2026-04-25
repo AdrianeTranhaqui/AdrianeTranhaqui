@@ -31,7 +31,6 @@ Estou em transição de carreira para a área de Tecnologia da Informação, uni
 
   ### 🎨 Design & Artes Visuais:
 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/Procreate-000000?style=flat&logo=procreate&logoColor=white" alt="Procreate">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender">
