@@ -40,7 +40,7 @@ Estou em transição de carreira para a área de Tecnologia da Informação, uni
 
   ### 🤝 Conecte-se comigo:
 
-  <a href="(https://www.linkedin.com/in/adriane-tranhaqui-356806353/)" target="_blank">
+  <a href="([https://www.linkedin.com/in/adriane-tranhaqui-356806353/](https://www.linkedin.com/in/adriane-tranhaqui-356806353/))" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="(https://www.instagram.com/adrianetranhaqui?igsh=MTI3dWlrZDhrbWlteA%3D%3D&utm_source=qr)" target="_blank">
