@@ -1,41 +1,60 @@
+<div align="center">
 
-<div align="center"><p>
-<h1>✻ Olá, eu sou Adriane Tranhaqui! ✻ 
-</div></p></h1>
-<div align="center"><p>
-<img src="https://github.com/user-attachments/assets/120fccdd-6e79-4572-b848-f5da443f78df" width="100px">
-</div></p>
-<div align="center"><p>
+# ✦ Olá, eu sou Adriane Tranhaqui! ✦
 
-Estou em transição de carreira para a área de Tecnologia da Informação, unindo minha experiência anterior com artes visuais à precisão do desenvolvimento de software. 
-<p>✨ Acredito que a tecnologia é a ferramenta perfeita para transformar lógica em soluções criativas. ✨
-  
+<img width="auto" height="300" alt="Image" src="https://github.com/user-attachments/assets/dc990837-c4e7-4eb6-b042-9283f765227d" />
+
+---
+
+<p align="center">
+  Em transição de carreira para aréa de Tecnologia da Informação, buscando unir minha experiência anterior em Artes Visuais à precisão do desenvolvimento de software!</b>.
 </p>
 
-<p><h3>◦ 🎓 Graduando em Sistema de Informação.</h3></p>
-<p><h3>◦ ⚡ Residente de Software (Full Stack) no SERRATEC.</h3></p>
+✦<br>
+🎓 **Graduando em Sistemas de Informação**<br>
+⚡ **Residência de Software (Full Stack) no SERRATEC**
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianeTranhaqui&show_icons=true&theme=onedark" />
 </div></p>
 <div align="center">
 
-  ### 🛠️ Tecnologias e Ferramentas:
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  
+### 🛠️ Tecnologias & Ferramentas
 
-</div>
-<div align="center">
+#### **Desenvolvimento Full Stack**
+<p align="center">
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="JavaScript"/>
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="TypeScript"/>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="Java"/>
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="HTML5"/>
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="CSS3"/>
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="PostgreSQL"/>
+</p>
 
-  ### 🎨 Design & Artes Visuais:
+#### **Design & Artes Visuais**
+<p align="center">
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="Figma"/>
+  <!-- Photoshop -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="Photoshop"/>
+  <!-- Blender -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" style="margin: 5px; border-radius: 8px;" alt="Blender"/>
+</p>
 
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Procreate-000000?style=flat&logo=procreate&logoColor=white" alt="Procreate">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender">
+---
 
-</div>
-<div align="center">
+### 🌐 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
+  </a>
+</p>
 
 </div>
